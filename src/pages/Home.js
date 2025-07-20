@@ -400,6 +400,7 @@ export default function Home() {
               </div>
             }
             extra={<Button type="link">View All</Button>}
+            }
             style={{
               borderRadius: 12,
               border: "1px solid #f0f0f0",
@@ -447,6 +448,7 @@ export default function Home() {
               </div>
             }
             extra={<Button type="link">View All</Button>}
+            }
             style={{
               borderRadius: 12,
               border: "1px solid #f0f0f0",
